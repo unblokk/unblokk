@@ -1,4 +1,4 @@
-  <img alt="Unblokk" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=unblokk;The+School+Blocks,+I+Unblock">
+  <img alt="Unblokk" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=unblokk;The+School+Blocks,+I+Unblock.">
   <h1></h1>
   <br>
   <h1>What is Unblokk?</h1>
